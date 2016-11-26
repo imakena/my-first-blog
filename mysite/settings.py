@@ -25,7 +25,7 @@ SECRET_KEY = '(s5-f(h$73j$u#t7g&3*&f-i5x2$o@np7l8ji9nqg^h2w7z(t^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ikena.pythonanywhere.com',]
 
 
 # Application definition
